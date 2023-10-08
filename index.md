@@ -7,3 +7,5 @@
 ```
 $git init
 ```
+
+- [ ] Test this checklist
